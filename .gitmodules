@@ -1,0 +1,15 @@
+[submodule "Dependencies/VkHLF"]
+	path = Dependencies/VkHLF
+	url = https://github.com/playmer/VkHLF.git
+[submodule "Dependencies/basis_universal"]
+	path = Dependencies/basis_universal
+	url = https://github.com/playmer/basis_universal.git
+[submodule "Dependencies/imgui/repo"]
+	path = Dependencies/imgui/repo
+	url = https://github.com/ocornut/imgui.git
+[submodule "Dependencies/SDL2"]
+	path = Dependencies/SDL2
+	url = https://github.com/playmer/SDL.git
+[submodule "Dependencies/glm"]
+	path = Dependencies/glm
+	url = https://github.com/playmer/glm.git
